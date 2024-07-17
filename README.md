@@ -6,11 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a huge nerd, geek, and Animator.
 
-- ## #30NitesOfCode:
+
+## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@maxwellpea27536/30-nites-of-code)  
   ![@maxwellpea27536 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=maxwellpea27536)
-
-<!---
-JaydenPearlM/JaydenPearlM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

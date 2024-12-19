@@ -1,14 +1,3 @@
-- 👋 Hello, my name is Jayden!
-- 👀 I’m interested and working on becoming a Full Stack Engineer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, REACT, Python, DJANGO, and Java, Postgreql for database on prod.
-- 💞️ I’m looking to collaborate on more projects as a Full-Stack Engineer/Developer and hopefully dive into the field after I graduate college!
-- 💞️ I am also a designer and have the ability to design sleek Software Homepages and websites
-- 📫 How to reach me email is maxwellpearl6790@gmail.com, maxwellpearl1990@gmail.com or www.linkedin.com/in/JaydenMaxwell
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a huge nerd, geek, and Artist. 
-- 
+Hello, my name is Jayden! I am deeply invested in becoming a Full Stack Engineer and am currently honing my skills in HTML, CSS, JavaScript, React, Python, Django, and Java, with a focus on PostgreSQL for database management in production environments. As I work towards graduation, I am eager to collaborate on projects as a Full-Stack Engineer/Developer and transition into the field. Additionally, I have a strong background in design, allowing me to create sleek software homepages and websites. You can reach me via email at maxwellpearl6790@gmail.com or maxwellpearl1990@gmail.com, or connect with me on LinkedIn at www.linkedin.com/in/JaydenMaxwell.My pronouns are He/Him, and a fun fact about me is that I am a huge nerd, geek, and artist.
 
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@maxwellpea27536/30-nites-of-code)  
-  ![@maxwellpea27536 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=maxwellpea27536)

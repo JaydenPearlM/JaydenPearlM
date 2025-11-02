@@ -3,8 +3,9 @@
   <img src="banner.png" width="100%" alt="Jayden Banner">
 </p>
 
-<h2 align="center">I'm Jayden</h2>
-<p align="center">Full Stack Engineer 
+<h2 align="center">Jayden</h2>
+<p align="center">Full Stack Engineer and Machine Learning Engineer
+If you have a problem that can be solved with tech? Send a message!
 
 <br/>
 
@@ -13,9 +14,10 @@ I build clean, responsive web and desktop applications with experience with mode
 I enjoy turning complex ideas into fast, reliable interfaces with great UX.
 I am able to develope Apps using AI and Machine Learning.
 
+##My Day to Day:
 ✨ Always learning something new  
-📡 Currently working on cross-platform projects  
-🧩 As a Software engineer I enjoy building tools that solve real problems
+📡 Currently working on a number of projects  
+🧩 As a Software engineer I enjoy building tools that solve real world problems
 
 <br/>
 

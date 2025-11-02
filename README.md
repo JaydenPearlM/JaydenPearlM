@@ -70,7 +70,4 @@ I am able to develope Apps using AI and Machine Learning.
 ### Connect
 Email: JaydenMaxwell6790@outlook.com 
 LinkedIn: https://www.linkedin.com/in/jaydenmaxwell
-Website: https://jayden-portfolio-axk9.onrender.com
-
-Portfolio: *your link here*
-
+Portfolio: https://jayden-portfolio-axk9.onrender.com

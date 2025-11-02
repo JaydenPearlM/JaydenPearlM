@@ -4,22 +4,24 @@
 </p>
 
 <h2 align="center">I'm Jayden</h2>
-<p align="center">Full Stack Engineer • React • Node • Supabase • PostgreSQL</p>
+<p align="center">Full Stack Engineer 
 
 <br/>
 
 ### About
-I build clean, responsive web experiences with modern full-stack tooling.  
+I build clean, responsive web and desktop experiences with modern full stack tooling.  
 I enjoy turning complex ideas into fast, reliable interfaces with great UX.
+I am able to develope Apps using AI and Machine Learning.
 
 ✨ Always learning something new  
 📡 Currently working on cross-platform projects  
-🧩 I enjoy building tools that solve real problems
+🧩 As a Software engineer I enjoy building tools that solve real problems
 
 <br/>
 
 ### Tech Stack
 <p>
+  <img src="https://img.shields.io/badge/Mongo-blue?logo=react&logoColor=white&color=bfdbfe" />
   <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&color=bfdbfe" />
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&color=bbf7d0" />
   <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white&color=fbcfe8" />

@@ -5,7 +5,7 @@
 
 <h2 align="center">JaydenPearlM</h2>
 <p align="center"><strong>Full Stack Software Engineer & Machine Learning Engineer</strong><br/>
-If you have a problem that can be solved with tech — let’s connect!
+If you have a problem that can be solved with tech, let’s connect!
 </p>
 
 ---
@@ -58,8 +58,9 @@ I'm also experienced in building intelligent apps using AI and Machine Learning.
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaydenPearlM&show_icons=true&theme=transparent" height="160" />
+  <br>
   <img src="https://streak-stats.demolab.com/?user=JaydenPearlM&theme=transparent" height="160" />
-</p>
+</p></br>
 
 ---
 

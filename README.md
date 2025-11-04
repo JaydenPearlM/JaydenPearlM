@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image Nov 4, 2025, 04_10_05 PM.png" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
+  <img src="banner2.png" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
 <h2 align="center">JaydenPearlM</h2>

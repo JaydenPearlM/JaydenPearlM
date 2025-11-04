@@ -10,14 +10,6 @@ I enjoy transforming complex ideas into fast, reliable, and intuitive interfaces
 I'm also experienced in building intelligent apps using AI and Machine Learning.
 
 ---
-
-### 🧰 My Day-to-Day
-- ✨ Always learning something new  
-- 📡 Working on a number of side projects  
-- 🧩 Passionate about solving real-world problems with code
-
----
-
 ### 🧱 Tech Stack
 
 #### 💻 Full Stack Development

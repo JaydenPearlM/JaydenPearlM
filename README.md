@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Jayden Banner" />
+  <img src="banner.png" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
+
 
 <h2 align="center">JaydenPearlM</h2>
 <p align="center"><strong>Full Stack Software Engineer & Machine Learning Engineer</strong><br/>

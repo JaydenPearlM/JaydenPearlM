@@ -3,7 +3,15 @@
   <img src="banner2.PNG" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 ---
-<a href="https://www.buymeacoffee.com/maxwellpeae"><img src="https://img.buymeacoffee.com/button-api/?text=Click to Help Fund Hosting!&emoji=☄️&slug=maxwellpeae&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/maxwellpeae">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Click%20to%20Help%20Fund%20Hosting!&emoji=%F0%9F%8D%B9&slug=maxwellpeae&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff"
+      alt="Buy Me a Coffee"
+    />
+  </a>
+</p>
 
 ---
 

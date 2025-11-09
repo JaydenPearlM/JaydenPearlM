@@ -3,6 +3,19 @@
   <img src="banner2.PNG" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 ---
+<!-- Banner -->
+<p align="center">
+  <img src="banner2.PNG" alt="Jayden Banner" style="width:100%; height:200px; object-fit:cover;" />
+</p>
+
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/maxwellpeae">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Click%20to%20Help%20Fund%20Hosting!&emoji=☄️&slug=maxwellpeae&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</p>
+
+---
 
 ### 🧠 About Me
 I build clean, responsive web and desktop applications using modern full stack tools.  

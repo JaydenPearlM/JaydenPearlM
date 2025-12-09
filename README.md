@@ -14,6 +14,8 @@
 </p>
 
 ---
+### 🚀 Featured Projects
+[Devfolio](https://github.com/JaydenPearlM/Devfolio) — Portfolio + Analytics site built with full stack tech
 
 ### 🧠 About Me
 I build clean, responsive web and desktop applications using modern full stack tools.  
@@ -46,27 +48,6 @@ I'm also experienced in building intelligent apps using AI and Machine Learning.
 </p>
 
 ---
-
-### 🚀 Featured Projects
-- 🔗 [Devfolio](https://github.com/JaydenPearlM/Devfolio) — Portfolio + Analytics site built with full stack tech
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaydenPearlM&show_icons=true&theme=transparent" height="160" style="margin-right: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=JaydenPearlM&theme=transparent" height="160" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JaydenPearlM&theme=flat&no-frame=true" />
-</p>
-
----
-
 ### 📬 Contact Me
 - **Email:** JaydenMaxwell6790@outlook.com  
 - **LinkedIn:** [linkedin.com/in/jaydenmaxwell](https://www.linkedin.com/in/jaydenmaxwell)  
